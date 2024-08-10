@@ -12,6 +12,10 @@ The original data was sourced from the [Our World in Data COVID-19 Dataset](http
 1. **CovidDeaths.xlsx** - Contains data specific to COVID-19 deaths.
 2. **CovidVaccinations.xlsx** - Contains data specific to COVID-19 vaccinations.
 
+You can access and download the dataset used in this project from the following Google Drive link:
+
+[Access Dataset](https://drive.google.com/drive/folders/1757jR7qJz9oUI8F3rU04EvElwawZCC61?usp=sharing)
+
 ## How to Use
 
 To work with this project, follow these steps:
@@ -46,3 +50,4 @@ GROUP BY
     location, population
 ORDER BY 
     PercentPopulationInfected DESC;
+
